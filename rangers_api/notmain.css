@@ -1,0 +1,55 @@
+* {
+    color: greenyellow;
+    /* border: 0px !important; */
+
+}
+
+body {
+    background-color: rebeccapurple;
+}
+
+.btn {
+    background-color: rebeccapurple !important;
+    border: 0px;
+    color: greenyellow;
+}
+
+.centermepls {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10px;
+    margin-top: 70px;
+}
+
+p {
+    margin-top: 30%;
+}
+
+section {
+    width: 90%;
+    margin: auto;
+}
+
+thead {
+    background-color: rebeccapurple;
+    opacity: 0.6;
+}
+
+input {
+    background-color: rebeccapurple;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -10;
+  }
+
+textarea {
+    background-color: rebeccapurple;
+    color: rebeccapurple;
+}
